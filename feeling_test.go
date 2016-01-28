@@ -5,8 +5,6 @@ import (
     "strings"
 )
 
-// If there is a way to reduce this further, please let me know
-// Otherwise, will revise in the future as I learn more about Go
 func TestFeeling(t *testing.T) {
     testCases := []struct {
         method, emoji string
