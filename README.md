@@ -1,13 +1,13 @@
-# Feeling
-Feeling is a simple GoLang package to express your feelings through text emoticons
+# go-feeling
+A simple GoLang package to express your feelings in the terminal through text emoticons
 
 Get:
 
-`go get gopkg.in/brh55/feeling.v1`
+`go get gopkg.in/brh55/go-feeling.v1`
 
 Import:
 
-`import "gopkg.in/brh55/feeling.v1"`
+`import "gopkg.in/brh55/go-feeling.v1"`
 
 ## Example
 ````
